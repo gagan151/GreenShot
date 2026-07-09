@@ -83,3 +83,6 @@ GreenShot/
 
 - Detection accuracy depends on lighting, camera angle, and how clearly the ball is visible.
 - The bundled `yolov8n.pt` is the source model; the app ships the compiled `yolov8n.mlpackage`.
+
+  <img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/1667f07b-c135-4c0e-b044-80f5c1583f2b" />
+
